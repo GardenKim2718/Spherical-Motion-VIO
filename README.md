@@ -12,32 +12,35 @@ Camera: IMX-219 (CSI cable connection)
 Usage
 ----------------------
 1. VINS (baseline VIO without regarding Spherical Motion)
-   '''
+
+   ```
    python3 comparison_visual_VIO.py
    python3 INS.py
-   '''
+   ```
    
 3. Action Matrix Solver applied VIO
    Edit the visual odometry dependency within realtime_VIO.py to realtime_VO_decomp
-   '''
-   from realtime_VO_decomp import VisualOdometry, PinholeCamera
-   '''
 
-   '''
+   ```
+   from realtime_VO_decomp import VisualOdometry, PinholeCamera
+   ```
+
+   ```
    python3 AHRS.py
    python3 realtime_VIO.py
-   '''
+   ```
    
 4. SM-VIO (final model
    Edit the visual odometry dependency within realtime_VIO.py to realtime_VO_org
-   '''
-   from realtime_VO_org import VisualOdometry, PinholeCamera
-   '''
    
-   '''
+   ```
+   from realtime_VO_org import VisualOdometry, PinholeCamera
+   ```
+   
+   ```
    python3 AHRS.py
    python3 realtime_VIO.py
-   '''
+   ```
 
 Contributions
 ----------------------
