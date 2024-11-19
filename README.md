@@ -6,7 +6,9 @@ Visual Inertial Odometry project for estimating camera pose within Spherical Mot
 Hardware Setting
 ----------------------
 Platform: Jetson Nano (Ubuntu 20.04) 
+
 IMU: MPU-6050 or MPU-9250(magnetometer function not supported)
+
 Camera: IMX-219 (CSI cable connection)
 
 Usage
