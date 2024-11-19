@@ -46,6 +46,8 @@ Usage
 
 Contributions
 ----------------------
-Action Matrix Solver is python varaition from Spherical SFM project<https://github.com/jonathanventura/spherical-sfm>, a research conducted by Pf.Jonathan Ventura
+Action Matrix Solver is python varaition from Spherical SFM project<https://github.com/jonathanventura/spherical-sfm>,
+
+a research conducted by Pf.Jonathan Ventura
 
 Special Thanks to Sungjin Park<https://github.com/SuNy4> for providing jetcam repository for operating IMX219 camera with Jetson Nano
