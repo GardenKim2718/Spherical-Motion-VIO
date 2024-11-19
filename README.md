@@ -21,6 +21,7 @@ Usage
    ```
    
 3. Action Matrix Solver applied VIO
+
    Edit the visual odometry dependency within realtime_VIO.py to realtime_VO_decomp
 
    ```
@@ -32,7 +33,8 @@ Usage
    python3 realtime_VIO.py
    ```
    
-4. SM-VIO (final model
+5. SM-VIO (final model)
+
    Edit the visual odometry dependency within realtime_VIO.py to realtime_VO_org
    
    ```
@@ -43,7 +45,7 @@ Usage
    python3 AHRS.py
    python3 realtime_VIO.py
    ```
-5. AHRS only
+7. AHRS only
    
    ```
    python3 AHRS_only.py
