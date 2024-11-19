@@ -53,7 +53,7 @@ Usage
 
 Contributions
 ----------------------
-Action Matrix Solver is python varaition from Spherical SFM project(<https://github.com/jonathanventura/spherical-sfm>),
+Action Matrix Solver is python varaition of Spherical SFM project(<https://github.com/jonathanventura/spherical-sfm>),
 
 a research conducted by Pf.Jonathan Ventura
 
