@@ -43,11 +43,18 @@ Usage
    python3 AHRS.py
    python3 realtime_VIO.py
    ```
+5. AHRS only
+   
+   ```
+   python3 AHRS_only.py
+   ```
 
 Contributions
 ----------------------
-Action Matrix Solver is python varaition from Spherical SFM project<https://github.com/jonathanventura/spherical-sfm>,
+Action Matrix Solver is python varaition from Spherical SFM project(<https://github.com/jonathanventura/spherical-sfm>),
 
 a research conducted by Pf.Jonathan Ventura
 
-Special Thanks to Sungjin Park<https://github.com/SuNy4> for providing jetcam repository for operating IMX219 camera with Jetson Nano
+
+
+Special Thanks to Sungjin Park(<https://github.com/SuNy4>) for providing jetcam repository for operating IMX219 camera with Jetson Nano
