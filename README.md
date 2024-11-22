@@ -59,4 +59,4 @@ a research conducted by Pf.Jonathan Ventura
 
 
 
-Special Thanks to Sungjin Park(<https://github.com/SuNy4>) for providing jetcam repository for operating IMX219 camera with Jetson Nano
+Special thanks to Sungjin Park(<https://github.com/SuNy4>) for providing jetcam repository(<https://github.com/IRCVLab/HYU-2024-Embedded>) for operating IMX219 camera with Jetson Nano
