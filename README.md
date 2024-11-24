@@ -11,6 +11,11 @@ IMU: MPU-6050 or MPU-9250(magnetometer function not supported)
 
 Camera: IMX-219 (CSI cable connection)
 
+Environment
+----------------------
+Ubuntu 20.04
+OpenCV Version: (will be included)
+
 Usage
 ----------------------
 As the IMU and VIO operates in different frequencies, the IMU code and VIO code had to be run separately.
