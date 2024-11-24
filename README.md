@@ -13,6 +13,10 @@ Camera: IMX-219 (CSI cable connection)
 
 Usage
 ----------------------
+As the IMU and VIO operates in different frequencies, the IMU code and VIO code had to be run separately.
+
+The IMU code will send data via socket communication to the VIO code.
+
 1. VINS (baseline VIO without regarding Spherical Motion)
 
    ```
@@ -55,8 +59,8 @@ Contributions
 ----------------------
 Action Matrix Solver is python varaition of Spherical SFM project(<https://github.com/jonathanventura/spherical-sfm>),
 
-a research conducted by Pf.Jonathan Ventura
+a research conducted by Pf. Ventura
 
 
 
-Special thanks to Sungjin Park(<https://github.com/SuNy4>) for providing jetcam repository(<https://github.com/IRCVLab/HYU-2024-Embedded>) for operating IMX219 camera with Jetson Nano
+Special thanks to Sungjin Park(<https://github.com/SuNy4>) for providing jetcam repository (<https://github.com/IRCVLab/HYU-2024-Embedded>) for operating IMX219 camera with Jetson Nano
