@@ -7,7 +7,7 @@ Hardware Setting
 ----------------------
 Platform: Jetson Nano (Ubuntu 20.04) 
 
-IMU: MPU-6050 or MPU-9250(magnetometer function not supported)
+IMU: MPU-6050 or MPU-9250(magnetometer function not supported, gyro & accelerometer registers should be identical)
 
 Camera: IMX-219 (CSI cable connection)
 
@@ -15,7 +15,7 @@ Environment
 ----------------------
 Ubuntu 20.04
 
-OpenCV Version: (will be included)
+OpenCV Version: 4.5.3
 
 Usage
 ----------------------
