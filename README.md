@@ -19,7 +19,7 @@ OpenCV Version: 4.5.3
 
 Usage
 ----------------------
-As the IMU and VIO operates in different frequencies, the IMU code and VIO code had to be run separately.
+As the IMU and VIO operate in different frequencies, the IMU code and VIO code had to be run separately.
 
 The IMU code will send data via socket communication to the VIO code.
 
