@@ -1,5 +1,5 @@
 # Spherical-Motion-VIO
-HYU2024 Dept of Automotive Engineering Capstone Design Project
+HYU2024 Department of Automotive Engineering Capstone Design Project
 ---------------------------------------------------------------
 Visual Inertial Odometry project for estimating camera pose within Spherical Motion
 
