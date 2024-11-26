@@ -65,10 +65,10 @@ Contributions
 ----------------------
 Action Matrix Solver is python varaition of Spherical SFM project(<https://github.com/jonathanventura/spherical-sfm>),
 
-a research conducted by Pf. Ventura
+a research conducted by Prof. Ventura
 
 
 
 Special thanks to Sungjin Park(<https://github.com/SuNy4>) for providing jetcam repository (<https://github.com/IRCVLab/HYU-2024-Embedded>) for operating IMX219 camera with Jetson Nano
 
-Finally, we are grateful for all the help Pf. Hwang (<https://soonminhwang.github.io/>) gave us as advisory professor of this project.
+Finally, we are grateful for all the help Prof. Hwang (<https://soonminhwang.github.io/>) gave us as the advisory professor of our project.
