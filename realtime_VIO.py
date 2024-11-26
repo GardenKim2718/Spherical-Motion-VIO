@@ -113,7 +113,7 @@ def angle_between_euler(x1, y1, z1, x2, y2, z2):
 
 
 # Visual Odometry setup
-camera = CSICamera(capture_width=960, capture_height=540, downsample = 1, capture_fps=30)
+camera = CSICamera(capture_width=960, capture_height=540, downsample = 1, capture_fps=20)
 cam = PinholeCamera(width=960.0, height=540.0, fx=795.419556812739, fy=795.4373502799797, cx=598.78422838679, cy=395.0568737445681
                     , k1=-0.36912354829388827, k2=0.21550503499604207, p1=-0.001099465317271592
                     , p2=5.7741740009726946e-05, k3=-0.1015828459100714)
