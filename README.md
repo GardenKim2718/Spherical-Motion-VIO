@@ -11,6 +11,8 @@ IMU: MPU-6050 or MPU-9250(magnetometer function not supported, gyro & accelerome
 
 Camera: IMX-219 (CSI cable connection)
 
+Wiring of IMU and Camera will be included in further updates.
+
 Environment
 ----------------------
 Ubuntu 20.04
