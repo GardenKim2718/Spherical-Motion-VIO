@@ -7,7 +7,9 @@ Hardware Setting
 ----------------------
 Platform: NVIDIA Jetson Nano (Ubuntu 20.04) 
 
-IMU: MPU-6050 or MPU-9250(magnetometer function not supported, gyro & accelerometer registers should be identical)
+IMU: MPU-6050 or MPU-9250
+
+(magnetometer function not supported, gyro & accelerometer registers should be identical)
 
 Camera: IMX-219 (CSI cable connection)
 
